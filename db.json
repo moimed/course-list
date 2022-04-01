@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+        "id": 1,
+        "department": "Computer science",
+        "title": "NgRx first steps"
+    },
+    {
+        "id": 2,
+        "department": "Computer science",
+        "title": "Angular basics"
+    },
+    {
+        "id": 3,
+        "department": "Computer science",
+        "title": "Web technologies"
+    }
+]
+}
